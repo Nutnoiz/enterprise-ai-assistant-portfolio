@@ -79,7 +79,6 @@ flowchart LR
 
 Repository นี้ไม่มี source code production, database dump, data dictionary, prompt ภายใน, SQL จริง, API key, password หรือข้อมูลลูกค้า ภาพหน้าจอใช้ข้อมูลที่ปิดบังเพื่อการสาธิตเท่านั้น
 
-
 ## English summary
 
 Enterprise AI Assistant is a governed hybrid analytics assistant integrated with an existing ERP workflow. It prioritizes approved deterministic business rules and routes new analytical questions through a cloud LLM, SQL safety gates, and a read-only execution layer. This public repository contains only a sanitized case study; proprietary implementation and business data remain private.
