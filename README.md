@@ -79,9 +79,6 @@ flowchart LR
 
 Repository นี้ไม่มี source code production, database dump, data dictionary, prompt ภายใน, SQL จริง, API key, password หรือข้อมูลลูกค้า ภาพหน้าจอใช้ข้อมูลที่ปิดบังเพื่อการสาธิตเท่านั้น
 
-## Interview guide
-
-หัวข้อสำหรับอธิบายการตัดสินใจทางวิศวกรรมและ trade-off อยู่ที่ [Interview Notes](docs/interview-notes.md)
 
 ## English summary
 
